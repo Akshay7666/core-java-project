@@ -1,2 +1,2 @@
 # core-java-project
-My-first-java-project
+My-First-java-project
